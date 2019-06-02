@@ -8,3 +8,7 @@
  
  
  
+some Actuator endpoints
+/trace
+/metrics
+/health
